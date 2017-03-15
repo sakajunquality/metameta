@@ -9,9 +9,13 @@ import (
 )
 
 const (
-	MetaIndexCharset   = "charset"
-	MetaIndexName      = "name"
-	MetaIndexProperty  = "property"
+	// MetaIndexCharset is attribute name for charset
+	MetaIndexCharset = "charset"
+	// MetaIndexName is attribute name for name
+	MetaIndexName = "name"
+	// MetaIndexProperty is attribute name for property
+	MetaIndexProperty = "property"
+	// MetaIndexHttpEquiv is attribute name for http-equiv
 	MetaIndexHttpEquiv = "http-equiv"
 )
 
