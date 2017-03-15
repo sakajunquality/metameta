@@ -19,6 +19,8 @@ func TestJSONStringfyMeta(t *testing.T) {
     }
 ]`
 
-	actual := JSONStringfyMeta(testMetas)
+	actual, err := JSONStringfyMeta(testMetas)
+
+	assert.Equal(t, nil, err)
 	assert.Equal(t, expected, actual)
 }
