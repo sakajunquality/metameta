@@ -4,6 +4,7 @@ Metameta
 [![Build status](https://ci.appveyor.com/api/projects/status/aph27170dws7wxf4?svg=true)](https://ci.appveyor.com/project/sakajunquality/metameta)
 [![Coverage Status](https://coveralls.io/repos/github/sakajunquality/metameta/badge.svg?branch=feature%2Fci)](https://coveralls.io/github/sakajunquality/metameta?branch=feature%2Fci)
 [![Go Report Card](https://goreportcard.com/badge/github.com/sakajunquality/metameta)](https://goreportcard.com/report/github.com/sakajunquality/metameta)
+[![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](http://godoc.org/github.com/sakajunquality/metameta)
 
 Overview
 ------------
